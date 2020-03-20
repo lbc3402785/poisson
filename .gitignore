@@ -1,0 +1,10 @@
+release/
+debug/
+build/
+debug/
+output/
+*.pro.*
+*.qmake.*
+Makefile*
+*.obj
+*.zip
